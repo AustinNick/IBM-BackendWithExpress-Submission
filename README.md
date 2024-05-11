@@ -37,7 +37,7 @@ Follow these instructions to set up and run the application:
    ```
 
 4. Configure the database connection:
-   
+
    - Create a MySQL database for the application.
    - Set your MySQL database credentials and other environment variables in the `.env` file.
 
@@ -49,4 +49,4 @@ Follow these instructions to set up and run the application:
 
 ## API Documentation
 
-For detailed API documentation and examples of how to use the endpoints, please take a look at the [API Documentation](https://documenter.getpostman.com/view/28416524/2s9YBxacHG).
+N/A
